@@ -42,4 +42,4 @@ devops & infrastructure:
 
 ### contribution activity:
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axngwb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
