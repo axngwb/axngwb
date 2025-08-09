@@ -2,8 +2,6 @@
 
 ai-driven workflows, or just a fresh way to solve an old problem.
 
----
-
 ### tech playground:
 
 programming languages:
