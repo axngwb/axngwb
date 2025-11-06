@@ -23,8 +23,8 @@ scripting & data languages:
 [![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org/)
-[![JSON Schema](https://img.shields.io/badge/JSON%20Schema-000000?style=flat-square&logo=json&logoColor=white)](https://json-schema.org/)
 [![TOML](https://img.shields.io/badge/TOML-9C4221?style=flat-square&logo=toml&logoColor=white)](https://toml.io/en/)
+[![JSON Schema](https://img.shields.io/badge/JSON%20Schema-000000?style=flat-square&logo=json&logoColor=white)](https://json-schema.org/)
 
 frontend development:
 
