@@ -17,8 +17,6 @@ programming languages:
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=asm&logoColor=white)](#)
 
----
-
 scripting & data languages:
 
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -27,8 +25,6 @@ scripting & data languages:
 [![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org/)
 [![JSON Schema](https://img.shields.io/badge/JSON%20Schema-000000?style=flat-square&logo=json&logoColor=white)](https://json-schema.org/)
 [![TOML](https://img.shields.io/badge/TOML-9C4221?style=flat-square&logo=toml&logoColor=white)](https://toml.io/en/)
-
----
 
 frontend development:
 
@@ -39,8 +35,6 @@ frontend development:
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
 
----
-
 backend & apis:
 
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -50,16 +44,12 @@ backend & apis:
 [![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql)](https://www.apollographql.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
----
-
 databases:
 
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-
----
 
 web3 & blockchain:
 
@@ -70,8 +60,6 @@ web3 & blockchain:
 [![Viem](https://img.shields.io/badge/Viem-000000?style=flat-square&logo=ethereum&logoColor=white)](https://viem.sh/)
 [![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=ethereum&logoColor=white)](https://walletconnect.com/)
 [![The Graph](https://img.shields.io/badge/The%20Graph-6747ED?style=flat-square&logo=ethereum&logoColor=white)](https://thegraph.com/)
-
----
 
 ai & machine learning:
 
@@ -84,16 +72,12 @@ ai & machine learning:
 [![ONNX](https://img.shields.io/badge/onnx-white?style=flat-square&logo=onnx&logoColor=black)](https://onnx.ai/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
----
-
 design tools:
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)](https://www.framer.com/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white)](https://miro.com/)
 [![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://v0.dev/)
-
----
 
 devops & infrastructure:
 
