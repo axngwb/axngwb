@@ -15,7 +15,7 @@ programming languages:
 [![Vyper](https://img.shields.io/badge/Vyper-2980b9?style=flat-square&logo=ethereum&logoColor=white)](https://vyper.readthedocs.io/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=asm&logoColor=white)](#)
+[![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)](#)
 
 scripting & data languages:
 
