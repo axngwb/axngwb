@@ -18,7 +18,6 @@ programming languages:
 
 scripting & data languages:
 
-[![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org/)
 [![TOML](https://img.shields.io/badge/TOML-9C4221?style=flat-square&logo=toml&logoColor=white)](https://toml.io/en/)
