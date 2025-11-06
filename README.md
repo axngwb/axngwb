@@ -15,13 +15,11 @@ programming languages:
 [![Vyper](https://img.shields.io/badge/Vyper-2980b9?style=flat-square&logo=ethereum&logoColor=white)](https://vyper.readthedocs.io/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)](#)
 
 scripting & data languages:
 
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org/)
 [![TOML](https://img.shields.io/badge/TOML-9C4221?style=flat-square&logo=toml&logoColor=white)](https://toml.io/en/)
 [![JSON Schema](https://img.shields.io/badge/JSON%20Schema-000000?style=flat-square&logo=json&logoColor=white)](https://json-schema.org/)
