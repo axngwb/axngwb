@@ -1,6 +1,6 @@
 ### hey there, i’m aaron.
 
-ai-driven workflows, or just a fresh way to solve an old problem.
+creating technology that solves problems, not just automates them.
 
 ### tech playground:
 
